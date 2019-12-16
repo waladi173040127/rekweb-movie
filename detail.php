@@ -47,8 +47,12 @@
 				   <li class="list-group-item">
 				  	<strong>Sinopsis : </strong> <?= $movie['Plot']; ?>
 				  </li>
+				  <li class="list-group-item">
+				  <a href="index.html" class="btn btn-primary">Kembali</a>
+				  </li>
 				</ul>
-  			</div>
+			  </div>
+			  
   		</div>
   	</div>
 
